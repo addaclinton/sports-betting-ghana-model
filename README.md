@@ -82,7 +82,7 @@ Note that the file names `fig3.csv` and `fig4.csv` are in the reverse order of t
 
 ## AI assistance
 
-This code was developed with the assistance of Claude (Claude Sonnet 5.5, Anthropic), as stated in the manuscript's declaration of generative AI use.
+I confirm that all derivations were carried out and verified by the authors; Claude was used only as a checking aid and did not generate any derivation. All text was written by the authors, with Claude used solely for word- and sentence-level language correction per Section 11 of the MWSJ Publication Ethics policy.
 
 ## License
 
